@@ -1,0 +1,28 @@
+@font-face{
+    font-family: Rumble Brave;
+    src: url("C:\Users\peter\Downloads\rumble_brave\Rumble Brave.otf");
+}
+
+body{
+    font:20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color:rgba(215, 215, 215, 0.899);
+}
+
+.margin{
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+.quem-somos{
+    background-color:rgba(139, 0, 0, 0.905);
+    color: aliceblue;
+}
+.fonte{
+    font-family: rumble brave;
+    font-size: 40px;
+}
+.espaco-fim{
+    padding-bottom: 60px;
+}
